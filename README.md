@@ -1,24 +1,10 @@
-# README
+This is Pizza Time (name still in development), a passion project of mine to share my love of pizza with the world. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+When this site is done, you will be able to view all pizza places that I have rated, view their locations off of a map, filter through different pizza places by different criteria, etc. 
 
-Things you may want to cover:
+What I am currently working on:
+-Creating and organizing my database
+-Inplimenting User Auth and different account types
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+What's next?
+-Implimenting a form that allows admins to create new reviews and post them to the backend
